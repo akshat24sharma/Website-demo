@@ -1,2 +1,2 @@
-# CMS
-Fully functioning content management system
+My first blog website codes 
+With sql querries and flask integrated
